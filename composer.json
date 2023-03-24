@@ -1,10 +1,17 @@
 {
     "name": "costsrl/cost01",
+    "description": "CoST01",
     "type": "library",
     "autoload": {
         "psr-4": {
             "Vitomattera\\Cost01\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "CoST srl"
+        }
+    ],
+    "minimum-stability": "stable",
     "require": {}
 }
