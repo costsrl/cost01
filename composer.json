@@ -1,8 +1,11 @@
 {
     "name": "costsrl/cost01",
-    "description": "CoST01",
+    "description": "CoST - cost01",
     "type": "library",
     "require": {
+        "php": "^7.4"
+    },
+    "require-dev": {
         "php": "^7.4"
     },
     "autoload": {
@@ -12,8 +15,8 @@
     },
     "authors": [
         {
-            "name": "CoSTsrl"
+            "name": "CoST srl"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
