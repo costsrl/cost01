@@ -2,6 +2,9 @@
     "name": "costsrl/cost01",
     "description": "CoST01",
     "type": "library",
+    "require": {
+        "php": "^7.4"
+    },
     "autoload": {
         "psr-4": {
             "Vitomattera\\Cost01\\": "src/"
@@ -12,6 +15,5 @@
             "name": "CoST srl"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "minimum-stability": "stable"
 }
