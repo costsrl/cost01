@@ -18,5 +18,5 @@
             "name": "CoST srl"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
